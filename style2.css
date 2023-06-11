@@ -1,0 +1,32 @@
+.first{width: 600px;
+height:500px;
+border:3px solid rgb(22, 47, 131);
+margin-left: 360px;}
+h2{display:inline;}  
+.head{width: 600px;
+height:100px;
+text-align: center;
+position: relative;
+margin-bottom: 100px;}
+.left{  
+display: inline-block;
+position: relative;
+padding-left:150px;
+margin-right: 50px; }       
+.right{
+display: inline-block;
+position: relative;
+padding-left:50px;
+border-left: 2px solid rgb(91, 118, 150);}
+.contact{text-align: center;
+margin-top:65px;}
+#link{
+position: relative;
+left: 220px;
+bottom: 240px;
+border: 10px solid red;
+background-color: aquamarine;
+text-align: center;
+border-radius: 10px;
+padding: 10px 20px;
+display: inline-block;}

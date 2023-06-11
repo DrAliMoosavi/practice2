@@ -1,0 +1,38 @@
+.a1{
+    background-color: yellow;
+    text-align: center;}
+.menu{
+    position: relative;
+    margin-left: -22px;}
+.meeting{
+    display: inline-block;
+    border-left: 2px solid green;
+    position: relative;
+    margin-left: 200px;
+    bottom: 153px;}
+   
+    .lastpost{
+        text-justify: auto;
+        position: relative;
+       left: 1150px;
+       bottom: 495px;
+       border: 2px dashed rgb(4, 51, 4);
+       width: 160px;
+       height: 160px;}
+       #lasth2{
+        position: relative;
+        left: 60px;}
+       .email{
+        text-align: center;
+        position: relative;
+        bottom: 300px; }
+         #link{
+        position: relative;
+        left: 600px;
+        bottom: 240px;
+        border: 10px solid red;
+        background-color: aquamarine;
+        text-align: center;
+        border-radius: 10px;
+        padding: 10px 20px;
+        display: inline-block; }
